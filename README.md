@@ -84,7 +84,7 @@ titanic-tableau-analysis/
 
 ## 👤 Author
 
-- **GitHub:** 
+- **GitHub:** Laxmi0412
 - **Project:** Titanic Survival Analysis — Tableau Visualization
 
 ---

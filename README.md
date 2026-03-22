@@ -7,17 +7,17 @@ A data visualization project exploring survival patterns from the Titanic datase
 ## 📊 Charts Built
 
 ### Chart 1 — Bar Chart: Survival by Sex
-![Chart 1](screenshots/chart1_bar_sex.png)
+
+<img width="588" height="467" alt="image" src="https://github.com/user-attachments/assets/51d5a260-3d26-41c3-86dc-59460cb728df" />
 
 - **Female survival rate: ~74%**
 - **Male survival rate: ~19%**
 - Females were nearly **4x more likely to survive** than males
 - Confirms the historical **"women and children first"** evacuation policy
-
 ---
 
 ### Chart 2 — Line Chart: Survival by Age
-![Chart 2](screenshots/chart2_line_age.png)
+<img width="675" height="461" alt="image" src="https://github.com/user-attachments/assets/a37cc38d-9fb6-42e9-bfe3-305cb54eaf85" />
 
 - **Children aged 0–9 had the highest survival rate (~61%)**
 - Sharp drop in survival for ages **20–30** (young males, mostly 3rd class)
@@ -27,7 +27,7 @@ A data visualization project exploring survival patterns from the Titanic datase
 ---
 
 ### Chart 3 — Scatter Plot: Age vs Fare (colored by Survival)
-![Chart 3](screenshots/chart3_scatter_age_fare.png)
+<img width="683" height="458" alt="image" src="https://github.com/user-attachments/assets/cdbd22f2-69e2-47bd-af32-c75cba64de1d" />
 
 - 🟠 **Orange = Survived | 🔵 Blue = Did not survive**
 - Passengers with **higher fares (1st class) survived more**

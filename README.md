@@ -84,7 +84,7 @@ titanic-tableau-analysis/
 
 ## 👤 Author
 
-- **GitHub:** your-username
+- **GitHub:** 
 - **Project:** Titanic Survival Analysis — Tableau Visualization
 
 ---

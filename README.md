@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Analysis 
+# 🚢  Titanic Survival Analysis | EDA & Tableau Dashboard
 
 A data visualization project exploring survival patterns from the Titanic dataset using Tableau Public.
 

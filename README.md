@@ -1,8 +1,30 @@
 # 🚢  Titanic Survival Analysis | EDA & Tableau Dashboard
 
-A data visualization project exploring survival patterns from the Titanic dataset using Tableau Public.
+📌 Project Overview
 
----
+This project explores the Titanic dataset using Python (Exploratory Data Analysis) and Tableau dashboards to understand the key factors that influenced passenger survival.
+
+The analysis focuses on uncovering patterns related to gender, age, passenger class, and fare to provide meaningful insights into survival probability.
+
+🎯 Objectives
+Analyze survival patterns among passengers
+Identify factors influencing survival rates
+Perform data cleaning and exploratory data analysis (EDA)
+Create interactive visualizations using Tableau
+Present insights in a clear, business-friendly format
+🧰 Tools & Technologies
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Tableau
+Jupyter Notebook
+🔍 Key Insights
+Females had a significantly higher survival rate compared to males
+First-class passengers had better survival chances than lower classes
+Younger passengers had higher survival probability in certain groups
+Fare and passenger class showed a strong relationship with survival outcomes
 
 ## 📊 Charts Built
 

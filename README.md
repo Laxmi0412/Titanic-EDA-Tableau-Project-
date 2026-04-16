@@ -26,6 +26,22 @@ First-class passengers had better survival chances than lower classes
 Younger passengers had higher survival probability in certain groups
 Fare and passenger class showed a strong relationship with survival outcomes
 
+
+
+📊 Visualizations
+
+Includes:
+
+Survival distribution by gender
+Age distribution analysis
+Fare vs survival scatter plot
+Class-based survival comparison
+Tableau interactive dashboard
+📈 Project Outcome
+
+This project demonstrates how data analysis and visualization can be used to uncover meaningful patterns and support decision-making through data-driven insights.
+
+
 ## 📊 Charts Built
 
 ### Chart 1 — Bar Chart: Survival by Sex
@@ -91,23 +107,14 @@ titanic-tableau-analysis/
     ├── chart2_line_age.png
     ├── chart3_scatter_age_fare.png
     └── dashboard.png
-```
+```📁 Dataset
 
----
+Titanic dataset (Kaggle)
 
-## 🚀 How to Open the Tableau Workbook
+👩‍💻 Author
 
-1. Download and install [Tableau Public](https://public.tableau.com/en-us/s/download) (free)
-2. Clone or download this repository
-3. Open `TitanicAnalysis.twbx` in Tableau Public
-4. Explore all 3 charts and the dashboard
-
----
-
-## 👤 Author
-
-- **GitHub:** Laxmi0412
-- **Project:** Titanic Survival Analysis — Tableau Visualization
+Laxmi Rushaali Kuravi
+M.S. Data Analytics | Business & Data Analyst
 
 ---
 
